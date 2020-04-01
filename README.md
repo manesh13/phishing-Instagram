@@ -2,7 +2,7 @@
 This is an phishing tool template made using basic knowledge of web Development.
 
 ## About
-Facebook Phishing for educational Purposes ONLY.
+Instagram Phishing for educational Purposes ONLY.
 This Phising will come handy for social-engineering techniques.
 
 ## Undetected
