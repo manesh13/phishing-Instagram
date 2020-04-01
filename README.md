@@ -1,2 +1,2 @@
 # phishing
-This is an phishing website made using base knowledge of web Development.
+This is an phishing tool template made using basic knowledge of web Development.
