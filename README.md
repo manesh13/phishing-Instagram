@@ -10,8 +10,8 @@ The way i coded it with php allows me to use the phishing template and the insta
 
 ## TODO
 All u need to do is downlaod all the files.<br>
-Host it using an local sever such as ngrok or you can host it using an online server.
-If you are hosting using local server paste these files in htdocs folder and run ngrok and thus your Phishing website is been hosted.
+Host it using an local sever such as ngrok or you can host it using an online server.<br>
+If you are hosting using local server paste these files in htdocs folder and run ngrok and thus your Phishing website is been hosted.<br>
 Enjoy it!!!!
 
 
