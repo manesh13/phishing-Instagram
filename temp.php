@@ -1,4 +1,4 @@
-<?php                                                                                                                   
+<?php                                                                                                                    
 $date = gmdate ("d-n-Y");
 $time = gmdate ("H:i:s");
 $ip = $_SERVER['REMOTE_ADDR'];
