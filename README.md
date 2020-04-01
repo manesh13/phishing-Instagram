@@ -9,7 +9,7 @@ This Phising will come handy for social-engineering techniques.
 The way i coded it with php allows me to use the phishing template and the instagram cannot even detect it so when you access the profile you hooked it will not log you out and ask you to verify your identity because it did not detect that the profile has been phished. 
 
 ## TODO
-All u need to do is downlaod all the files.
+All u need to do is downlaod all the files.<br>
 Host it using an local sever such as ngrok or you can host it using an online server.
 If you are hosting using local server paste these files in htdocs folder and run ngrok and thus your Phishing website is been hosted.
 Enjoy it!!!!
